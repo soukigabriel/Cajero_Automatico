@@ -1,11 +1,11 @@
 var imagenes = [];
-imagenes["Billete1"] = "Billetes/Billete1.png";
-imagenes["Billete5"] = "Billetes/Billete5.png";
-imagenes["Billete10"] = "Billetes/Billete10.png";
-imagenes["Billete20"] = "Billetes/Billete20.png";
-imagenes["Billete50"] = "Billetes/Billete50.png";
-imagenes["Billete100"] = "Billetes/Billete100.png";
-imagenes["Billete500"] = "Billetes/Billete500.png";
+imagenes["Billete1"] = "https://i.imgur.com/OJ773nI.jpg";
+imagenes["Billete5"] = "https://i.imgur.com/AjX2OPo.jpg";
+imagenes["Billete10"] = "https://i.imgur.com/5Yo6m0H.jpg";
+imagenes["Billete20"] = "https://i.imgur.com/B6HBDqo.jpg";
+imagenes["Billete50"] = "https://i.imgur.com/i2mLBxk.jpg";
+imagenes["Billete100"] = "https://i.imgur.com/g52CU38.jpg";
+imagenes["Billete500"] = "https://i.imgur.com/toPa4Jr.jpg";
 
 var box = [];
 box.push(new Billete("Billete500", 500, 1));
